@@ -11,7 +11,7 @@ please must use transformers 4.19.2 version. And replace the modeling_transforme
 
 And Incremental Learning is use no predict setep fine-tune code.
 
-Requiment
+Requiment  
 CUDA 11.6
 torch              1.13.1+cu116  
 torchaudio         0.13.1+cu116  
