@@ -6,6 +6,7 @@ Sentence-to-Label Generation Framework for Multi-task Learning of Japanese Sente
 
 
 You need change Transformer code with our to use Constraint Mechanism.
+And Incremental Learning is use no predict setep fine-tune code.
 
 Requiment
 CUDA 11.6
